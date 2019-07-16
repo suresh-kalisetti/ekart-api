@@ -1,0 +1,6 @@
+db.products.insert({displayName:"FST Runner v2 IDP Running Shoes For Men  (Blue, Yellow)",category:"Footware",price:1199,discount:5,deliveryCharges:50,image:"http://localhost:3001/images/image1.jpeg"})
+db.products.insert({displayName:"Mid-Top Outdoor Boots For Men  (Tan)",category:"Footware",price:594,discount:5,deliveryCharges:100,image:"http://localhost:3001/images/image2.jpeg"})
+db.products.insert({displayName:"Running Shoes For Men  (Black)",category:"Footware",price:899,discount:10,deliveryCharges:50,image:"http://localhost:3001/images/image3.jpeg"})
+db.products.insert({displayName:"Party Casuals For Men  (Multicolor)",category:"Footware",price:349,discount:0,deliveryCharges:100,image:"http://localhost:3001/images/image4.jpeg"})
+db.products.insert({displayName:"Acer Aspire 3 Pentium Gold - (4 GB/500 GB HDD/Windows 10 Home) A315-53-P4MY Laptop  (15.6 inch, Obsidian Black, 2.1 kg)",category:"Laptops",price:16490,discount:10,deliveryCharges:0,image:"http://localhost:3001/images/image5.jpeg"})
+db.products.insert({displayName:"Dell Inspiron 14 3000 Core i3 7th Gen - (4 GB/1 TB HDD/Linux) inspiron 3467 Laptop  (14 inch, Black, 1.956 kg)",category:"Laptops",price:24990,discount:5,deliveryCharges:0,image:"http://localhost:3001/images/image6.jpeg"})
